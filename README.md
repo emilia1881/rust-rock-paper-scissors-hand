@@ -2,6 +2,8 @@
 
 A robotic hand that plays Rock Paper Scissors against a human, using computer vision for gesture detection and embedded Rust for the game logic and hardware control.
 
+<img width="3024" height="4032" alt="IMG_8277" src="https://github.com/user-attachments/assets/148c1eb0-9b72-49ae-8e20-6425c5a1b910" />
+
 ## How It Works
 
 1. A laptop camera detects the player's gesture using Python + MediaPipe.
